@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb13d3d618684d5ebc981fa718c2803b, type: 3}
+  m_Name: Numbers_CardPack
+  m_EditorClassIdentifier: 
+  <Cards>k__BackingField:
+  - {fileID: 11400000, guid: 968347155609ab745a4077f5400ca62f, type: 2}
+  - {fileID: 11400000, guid: d3a7f3b6eaff6f243b02e6252a876491, type: 2}
+  - {fileID: 11400000, guid: 2e5ca19d9a34eca4aa2135bbb4ac2867, type: 2}
+  - {fileID: 11400000, guid: d6d993eba1dbf2541be788c8395724b8, type: 2}
+  - {fileID: 11400000, guid: f6289ad602ebd55489f5e9ed2a785594, type: 2}
+  - {fileID: 11400000, guid: 2e26a1ae7ce81ea4f9fb39df2714ecce, type: 2}
+  - {fileID: 11400000, guid: 33b2119da86a59c4299ea526aec4bb01, type: 2}
+  - {fileID: 11400000, guid: 00848549f071fb649aa16fd1b4c93bd6, type: 2}
+  - {fileID: 11400000, guid: ff5ed46ec55db7b488e360f5c4e6a29b, type: 2}
+  - {fileID: 11400000, guid: db5de6419f30ccd4d99cb0c09485dcc3, type: 2}
+  <QuestDescription>k__BackingField: 'Find number '

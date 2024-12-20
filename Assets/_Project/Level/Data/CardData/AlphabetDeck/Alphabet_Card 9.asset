@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6156d9ff380747aab28376bbf559720c, type: 3}
+  m_Name: Alphabet_Card 9
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: J
+  <BackgroundImage>k__BackingField: {fileID: 0}
+  <ItemImage>k__BackingField: {fileID: -3541686595128163680, guid: b28681c8018a0e34fa2b53ecd5b9a4fb, type: 3}
